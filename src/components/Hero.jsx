@@ -50,6 +50,7 @@ export default function Hero() {
           Настоящая Италия<br />
           <em className="italic font-light text-text">в сердце Ташкента</em>
         </p>
+        <p className="text-red-500 text-2xl font-bold mb-4">🔍 TEST VERCEL CHECK 🔍</p>
 
         <a href="#reservation" onClick={handleScroll} className="inline-block font-[family-name:var(--font-serif-sc)] text-[0.8rem] font-normal tracking-[0.2em] uppercase text-gold border border-gold-dim px-10 py-[14px] relative overflow-hidden transition-all duration-300 group" style={{ animation: 'heroEntrance 1s 0.85s cubic-bezier(0,0,0.2,1) both' }}>
           <span className="relative z-[1] group-hover:text-bg transition-colors duration-300">Забронировать столик</span>
